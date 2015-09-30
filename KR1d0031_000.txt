@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮釋宮
-#+DATE: 2015-09-23 09:37:44
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 22:08:34.885130
+#+PROPERTY: ID KR1d0031
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 提要
 <pb:KR1d0031_WYG_000-1a>¶
 欽定四庫全書　　　　　經部四¶
 　提要　　　　　　　　　禮類二(儀禮之屬/)¶
@@ -41,6 +43,7 @@
 <pb:KR1d0031_WYG_000-3a>¶
 　　　　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 　　　　　　　　　　總　校　官(臣/)陸　費　墀¶
+#+PROPERTY: JUAN 儀禮釋宫
 <pb:KR1d0031_WYG_000-4a>¶
 欽定四庫全書¶
 　儀禮釋宫　　　　　　宋　李如圭　撰¶
@@ -484,4 +487,3 @@
 　傳說房堂及室與經亦不合然必有所自姑存之以¶
 <pb:KR1d0031_WYG_000-28b>¶
 　備參考¶
-
